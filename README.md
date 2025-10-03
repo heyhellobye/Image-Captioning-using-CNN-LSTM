@@ -1,1 +1,6 @@
-# Image-Captioning-using-CNN-LSTM
+• Designed and implemented image captioning system, combining CNN-based visual feature extraction with
+an LSTM-based sequence decoder, to automatically generate relevant captions for wide range of images.
+• Preprocessed and structured datasets, developed training pipelines in Python, and utilized PyTorch for model
+development, tuning hyperparameters to optimize accuracy and evaluating performance through BLEU score.
+• Acquired in-depth knowledge of deep learning architectures, gaining practical exposure to convolutional networks,
+and sequential language generation, while strengthening proficiency with NumPy, Pandas, and Matplotlib.
